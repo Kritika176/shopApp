@@ -1,0 +1,188 @@
+{
+  "shops": [
+    {
+      "name": "BakerPride",
+      "area": "Mumbai Suburban",
+      "category": "Baker",
+      "openingDate": "2022-06-23",
+      "closingDate": "2022-06-24",
+      "id": 1
+    },
+    {
+      "name": "HonorChemists",
+      "area": "Nashik",
+      "category": "Chemist",
+      "openingDate": "2022-06-15",
+      "closingDate": "2022-06-22",
+      "id": 2
+    },
+    {
+      "name": "All Stationers",
+      "area": "Ahmednagar",
+      "category": "Stationary",
+      "openingDate": "2022-06-07",
+      "closingDate": "2022-06-30",
+      "id": 3
+    },
+    {
+      "name": "RK statinary",
+      "area": "Nashik",
+      "category": "Butcher",
+      "openingDate": "2022-06-08",
+      "closingDate": "2022-07-02",
+      "id": 4
+    },
+    {
+      "name": "RK statinary",
+      "area": "Nashik",
+      "category": "Butcher",
+      "openingDate": "2022-06-08",
+      "closingDate": "2022-07-02",
+      "id": 5
+    },
+    {
+      "name": "ffff",
+      "area": "Mumbai Suburban",
+      "category": "Grocery",
+      "openingDate": "2022-06-30",
+      "closingDate": "2022-07-09",
+      "id": 6
+    },
+    {
+      "name": "ffff",
+      "area": "Mumbai Suburban",
+      "category": "Grocery",
+      "openingDate": "2022-06-30",
+      "closingDate": "2022-07-09",
+      "id": 7
+    },
+    {
+      "name": "General Stores",
+      "area": "Nashik",
+      "category": "Grocery",
+      "openingDate": "2022-06-01",
+      "closingDate": "2022-06-30",
+      "id": 8
+    },
+    {
+      "name": "General Stores",
+      "area": "Nashik",
+      "category": "Grocery",
+      "openingDate": "2022-04-14",
+      "closingDate": "2022-05-27",
+      "id": 9
+    },
+    {
+      "name": "General Stores",
+      "area": "Nashik",
+      "category": "Grocery",
+      "openingDate": "2022-04-14",
+      "closingDate": "2022-05-27",
+      "id": 10
+    },
+    {
+      "name": "fff",
+      "area": "Mumbai Suburban",
+      "category": "Grocery",
+      "openingDate": "2021-12-30",
+      "closingDate": "2022-06-01",
+      "id": 11
+    },
+    {
+      "name": "fff",
+      "area": "Mumbai Suburban",
+      "category": "Grocery",
+      "openingDate": "2021-12-30",
+      "closingDate": "2022-06-01",
+      "id": 12
+    },
+    {
+      "name": "fff",
+      "area": "Mumbai Suburban",
+      "category": "Grocery",
+      "openingDate": "2021-12-30",
+      "closingDate": "2022-06-01",
+      "id": 13
+    },
+    {
+      "name": "ffff",
+      "area": "Pune",
+      "category": "Grocery",
+      "openingDate": "2022-06-15",
+      "closingDate": "2022-07-01",
+      "id": 14
+    },
+    {
+      "name": "ffff",
+      "area": "Mumbai Suburban",
+      "category": "Baker",
+      "openingDate": "2022-06-16",
+      "closingDate": "2022-07-05",
+      "id": 15
+    },
+    {
+      "name": "fff",
+      "area": "Pune",
+      "category": "Grocery",
+      "openingDate": "2022-06-01",
+      "closingDate": "2022-06-17",
+      "id": 16
+    },
+    {
+      "name": "fff",
+      "area": "Pune",
+      "category": "Grocery",
+      "openingDate": "2022-06-01",
+      "closingDate": "2022-06-17",
+      "id": 17
+    },
+    {
+      "name": "fffffinery",
+      "area": "Pune",
+      "category": "Butcher",
+      "openingDate": "2022-05-30",
+      "closingDate": "2022-06-16",
+      "id": 18
+    },
+    {
+      "name": "vghh",
+      "area": "Pune",
+      "category": "Butcher",
+      "openingDate": "2022-06-17",
+      "closingDate": "2022-06-30",
+      "id": 19
+    },
+    {
+      "name": "ver",
+      "area": "Pune",
+      "category": "Butcher",
+      "openingDate": "2022-06-23",
+      "closingDate": "2022-06-30",
+      "id": 20
+    },
+    {
+      "name": "sssssana",
+      "area": "Pune",
+      "category": "Baker",
+      "openingDate": "2022-06-17",
+      "closingDate": "2022-06-23",
+      "id": 21
+    },
+    {
+      "name": "saana",
+      "area": "Ahmednagar",
+      "category": "Baker",
+      "openingDate": "2022-06-01",
+      "closingDate": "2022-06-30",
+      "id": 22
+    },
+    {
+      "name": "rfrrr",
+      "area": "Mumbai Suburban",
+      "category": "Grocery",
+      "openingDate": "2022-05-31",
+      "closingDate": "2022-06-24",
+      "id": 23
+    }
+  ]
+}

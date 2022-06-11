@@ -1,0 +1,89 @@
+*{
+    font-family: "Jost";
+    color: rgb(49, 47, 54);
+
+}
+.form_container{
+    flex:0.5;
+    height: 100%;
+}
+.form{
+   text-align: center;
+    width: 80%;
+    height: 60%;
+    margin: auto;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    padding: 90px 10px;
+    border-radius: 5px;
+    background-color: rgb(254,238,241);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.title{
+    font-size: 2.3rem;
+    width: 100%;
+    font-weight: bold;
+    margin: auto;
+   
+   
+  
+}
+
+input{
+    width:80%;
+    height: 2rem;
+   
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+
+}
+input:focus{
+    outline: none;
+}
+.label{
+    font-size: 18px;
+    
+}
+select{
+    width:80%;
+    outline: none;
+    border: 5px solid black;
+    height: 2.5rem;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    outline: none;
+    border: 1px solid black;
+}
+
+.label_field{
+  
+    font-size: 20px;
+}
+.error{
+    color: red;
+    
+}
+.start_date{
+    width: 100%;
+}
+.start_date>input{
+    width: 80%;
+    height: 2rem;
+}
+.start_date>label{
+   font-size: 17px;
+}
+.submit{
+    border:1px solid crimson;
+    background-color: crimson;
+    color: white;
+    width: 30%;
+    height: 3rem;
+    font-size: 20px;
+    
+}
