@@ -2,7 +2,7 @@ import style from './Logo.module.css'
 export const Logo = () => {
   return (
     <div className={style.logo}>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqV4f9VziETf4yc-lCiftKbDtM8HLAm30kdA&usqp=CAU" alt="" />
+        <img src="https://i.pinimg.com/originals/ce/56/99/ce5699233cbc0f142250b520d967dff7.png" alt="Logo" />
     </div>
   )
 }

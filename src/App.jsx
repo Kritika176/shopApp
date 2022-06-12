@@ -1,12 +1,12 @@
 import style from "./App.module.css";
 import {Form} from "./Form/Form";
-import {Shop} from "./Shop/Shop";
+import {Shop} from "./ShopDisplay/Shop.jsx";
 import { Logo } from "./Logo/Logo";
 function App() {
   return (
     <div className={style.App}>
      
-         <Logo></Logo>
+         <Logo className={style.logo}></Logo>
          <div className={style.container_form_shop}>
         <Form>
           

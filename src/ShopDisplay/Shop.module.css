@@ -1,0 +1,132 @@
+.shopContainer{
+    width: 80%;
+    flex: 1;
+    height: 100%;
+}
+.shopMain{
+    width: 90%;
+    flex: 1;
+    margin: auto;
+    margin-top: 20px;
+    height: 100%;
+    display:grid;
+    grid-gap:15px;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+
+.shop{
+    
+   min-height: 220px;
+   max-height: 250px;
+    text-align: center;
+    padding:30px 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size: 1rem;
+    
+}
+.shop>img{
+    width:90%;
+    height: 50%;
+}
+.filter{
+    display: flex;
+    flex-direction: row;
+     gap: 20%;
+    margin: auto;
+    justify-content: space-around;
+    margin-bottom: 3px;
+    width: 90%;
+    height: 10%;
+
+}
+.status{
+   
+    font-size: 20px;
+    margin-bottom: 0.5em;
+}
+.delete{
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.text{
+    padding: 4px;
+}
+@media screen and (min-device-width: 240px) and (max-device-width: 1000px) {
+   
+    .shopMain{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+
+    }
+    
+    .shop{
+    
+        min-height: 250px;
+        max-height: 250px;
+         text-align: center;
+         padding:2%;
+         border-radius: 5px;
+         margin: auto;
+         font-size: 1rem;
+     }
+     .filter{
+        display: flex;
+        flex-direction: row;
+         gap: 20%;
+        margin: auto ;
+        justify-content: space-around;
+        width: 90%;
+        height: 10%;
+        margin-bottom: 20px;
+        font-size: 2.5rem;
+    
+    }
+    
+}
+@media screen and (min-device-width: 280px) and (max-device-width: 414px) { 
+    .shopMain{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+
+    }
+    
+    
+    
+}
+
+@media screen and (min-device-width: 763px) and (max-device-width: 1000px){
+    
+     .shop{
+    
+        min-height: 300px;
+        max-height: 600px;
+         border: 1px solid gray;
+         text-align: center;
+         padding:2%;
+         border-radius: 5px;
+         margin: auto;
+         font-size: 1.8rem;
+         min-width: 300px;
+         
+     }
+     .shop>img{
+        width:90%;
+        
+    }
+     .status{
+   
+        font-size: 1.8rem;
+        margin-bottom: 0.5em;
+    }
+    .delete{
+        font-size: 1.8rem;
+    }
+    .font{
+        font-size:2rem;
+    }
+}

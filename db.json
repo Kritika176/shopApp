@@ -1,188 +1,100 @@
 {
   "shops": [
     {
-      "name": "BakerPride",
-      "area": "Mumbai Suburban",
+      "name": "Pride Bakers",
+      "area": "Pune",
       "category": "Baker",
-      "openingDate": "2022-06-23",
-      "closingDate": "2022-06-24",
-      "id": 1
-    },
-    {
-      "name": "HonorChemists",
-      "area": "Nashik",
-      "category": "Chemist",
-      "openingDate": "2022-06-15",
-      "closingDate": "2022-06-22",
-      "id": 2
-    },
-    {
-      "name": "All Stationers",
-      "area": "Ahmednagar",
-      "category": "Stationary",
-      "openingDate": "2022-06-07",
-      "closingDate": "2022-06-30",
-      "id": 3
-    },
-    {
-      "name": "RK statinary",
-      "area": "Nashik",
-      "category": "Butcher",
-      "openingDate": "2022-06-08",
-      "closingDate": "2022-07-02",
-      "id": 4
-    },
-    {
-      "name": "RK statinary",
-      "area": "Nashik",
-      "category": "Butcher",
-      "openingDate": "2022-06-08",
-      "closingDate": "2022-07-02",
-      "id": 5
-    },
-    {
-      "name": "ffff",
-      "area": "Mumbai Suburban",
-      "category": "Grocery",
-      "openingDate": "2022-06-30",
-      "closingDate": "2022-07-09",
+      "openingDate": "2022-06-01",
+      "closingDate": "2022-06-25",
       "id": 6
     },
     {
-      "name": "ffff",
+      "name": "BakerAll",
       "area": "Mumbai Suburban",
-      "category": "Grocery",
-      "openingDate": "2022-06-30",
-      "closingDate": "2022-07-09",
-      "id": 7
-    },
-    {
-      "name": "General Stores",
-      "area": "Nashik",
-      "category": "Grocery",
-      "openingDate": "2022-06-01",
-      "closingDate": "2022-06-30",
+      "category": "Baker",
+      "openingDate": "2022-06-23",
+      "closingDate": "2024-12-12",
       "id": 8
     },
     {
-      "name": "General Stores",
-      "area": "Nashik",
-      "category": "Grocery",
-      "openingDate": "2022-04-14",
-      "closingDate": "2022-05-27",
-      "id": 9
-    },
-    {
-      "name": "General Stores",
-      "area": "Nashik",
-      "category": "Grocery",
-      "openingDate": "2022-04-14",
-      "closingDate": "2022-05-27",
-      "id": 10
-    },
-    {
-      "name": "fff",
-      "area": "Mumbai Suburban",
-      "category": "Grocery",
-      "openingDate": "2021-12-30",
-      "closingDate": "2022-06-01",
+      "name": "Chemist",
+      "area": "Ahmednagar",
+      "category": "Chemist",
+      "openingDate": "2022-05-31",
+      "closingDate": "2025-12-12",
       "id": 11
     },
     {
-      "name": "fff",
-      "area": "Mumbai Suburban",
+      "name": "Grocer All",
+      "area": "Solapur",
       "category": "Grocery",
-      "openingDate": "2021-12-30",
-      "closingDate": "2022-06-01",
+      "openingDate": "2022-05-29",
+      "closingDate": "2022-09-10",
       "id": 12
     },
     {
-      "name": "fff",
-      "area": "Mumbai Suburban",
+      "name": "Grocery forever",
+      "area": "Nagpur",
       "category": "Grocery",
-      "openingDate": "2021-12-30",
-      "closingDate": "2022-06-01",
+      "openingDate": "2022-01-12",
+      "closingDate": "2022-07-09",
       "id": 13
     },
     {
-      "name": "ffff",
-      "area": "Pune",
-      "category": "Grocery",
-      "openingDate": "2022-06-15",
-      "closingDate": "2022-07-01",
+      "name": "Chemist Uni",
+      "area": "Mumbai Suburban",
+      "category": "Chemist",
+      "openingDate": "2022-06-25",
+      "closingDate": "2027-12-12",
       "id": 14
     },
     {
-      "name": "ffff",
-      "area": "Mumbai Suburban",
-      "category": "Baker",
-      "openingDate": "2022-06-16",
-      "closingDate": "2022-07-05",
+      "name": "Pride Butcher",
+      "area": "Pune",
+      "category": "Butcher",
+      "openingDate": "2022-06-24",
+      "closingDate": "2029-07-12",
       "id": 15
     },
     {
-      "name": "fff",
-      "area": "Pune",
-      "category": "Grocery",
-      "openingDate": "2022-06-01",
-      "closingDate": "2022-06-17",
+      "name": "Chemist N",
+      "area": "Nashik",
+      "category": "Chemist",
+      "openingDate": "2022-06-17",
+      "closingDate": "2022-07-09",
       "id": 16
     },
     {
-      "name": "fff",
-      "area": "Pune",
-      "category": "Grocery",
-      "openingDate": "2022-06-01",
-      "closingDate": "2022-06-17",
+      "name": "Fututre Stationers",
+      "area": "Nashik",
+      "category": "Stationary",
+      "openingDate": "2022-05-30",
+      "closingDate": "2024-11-12",
       "id": 17
     },
     {
-      "name": "fffffinery",
-      "area": "Pune",
-      "category": "Butcher",
+      "name": "Grocer N",
+      "area": "Nashik",
+      "category": "Grocery",
       "openingDate": "2022-05-30",
-      "closingDate": "2022-06-16",
+      "closingDate": "2024-11-12",
       "id": 18
     },
     {
-      "name": "vghh",
-      "area": "Pune",
+      "name": "Butcher N",
+      "area": "Nashik",
       "category": "Butcher",
-      "openingDate": "2022-06-17",
-      "closingDate": "2022-06-30",
+      "openingDate": "2022-06-12",
+      "closingDate": "2022-12-30",
       "id": 19
     },
     {
-      "name": "ver",
-      "area": "Pune",
-      "category": "Butcher",
-      "openingDate": "2022-06-23",
-      "closingDate": "2022-06-30",
+      "name": "Baker N",
+      "area": "Nashik",
+      "category": "Baker",
+      "openingDate": "2022-02-05",
+      "closingDate": "2025-07-12",
       "id": 20
-    },
-    {
-      "name": "sssssana",
-      "area": "Pune",
-      "category": "Baker",
-      "openingDate": "2022-06-17",
-      "closingDate": "2022-06-23",
-      "id": 21
-    },
-    {
-      "name": "saana",
-      "area": "Ahmednagar",
-      "category": "Baker",
-      "openingDate": "2022-06-01",
-      "closingDate": "2022-06-30",
-      "id": 22
-    },
-    {
-      "name": "rfrrr",
-      "area": "Mumbai Suburban",
-      "category": "Grocery",
-      "openingDate": "2022-05-31",
-      "closingDate": "2022-06-24",
-      "id": 23
     }
   ]
 }

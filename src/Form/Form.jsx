@@ -14,6 +14,8 @@ const [shop,setShop] = useState({
   openingDate:"",
   closingDate:"",
 });
+
+//  ShopData Updating
 const createShopData = (e) => {
   let od = shop.openingDate.split("-").join(" ");
   let cd = shop.closingDate.split("-").join(" ");
@@ -29,6 +31,8 @@ const createShopData = (e) => {
       setShop({...shop,[name]:value});
   }
 }
+
+// form submission fucntion
 const submitForm = (e) => {
   e.preventDefault();
   
@@ -77,13 +81,13 @@ const submitForm = (e) => {
         <option value="Pune" >Pune</option>
         <option value="Mumbai Suburban" >Mumbai Suburban</option>
         <option value="Nashik">Nashik</option>
-        <option value="Nagur" >Nagpur</option>
+        <option value="Nagpur" >Nagpur</option>
         <option value="Ahmednagar" >Ahmednagar</option>
-        <option value="Solpur" >Solapur</option>
+        <option value="Solapur" >Solapur</option>
         
       </select>
       <select required name='category'value={shop.category} onChange={(e) =>createShopData(e)}>
-        <option value="" disabled selected>Select Category</option>
+        <option value="" disabled  selected>Select Category</option>
         <option value="Grocery" >Grocery</option>
         <option value="Butcher" >Butcher</option>
         <option value="Baker">Baker</option>
@@ -91,6 +95,7 @@ const submitForm = (e) => {
         <option value="Stationary" >Stationary</option>
         
       </select>
+      // comparing today's date with opening date
 <div className={style.start_date}>
      <label>Opening Date:</label>
       <input type="date" required name='openingDate' value = {shop.openingDate} onChange={(e) =>createShopData(e)}></input>
